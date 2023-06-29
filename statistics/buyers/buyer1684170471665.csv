@@ -1,0 +1,10 @@
+id=1, nameBuyer='BUYER1pool-1-thread-2', countOrders=3, allSum=20, calories=100
+id=0, nameBuyer='BUYER0pool-1-thread-1', countOrders=1, allSum=2, calories=50
+id=2, nameBuyer='BUYER2pool-1-thread-3', countOrders=3, allSum=20, calories=100
+id=8, nameBuyer='BUYER8pool-1-thread-9', countOrders=1, allSum=5, calories=100
+id=3, nameBuyer='BUYER3pool-1-thread-4', countOrders=1, allSum=5, calories=100
+id=4, nameBuyer='BUYER4pool-1-thread-5', countOrders=3, allSum=20, calories=100
+id=6, nameBuyer='BUYER6pool-1-thread-7', countOrders=4, allSum=11, calories=50
+id=9, nameBuyer='BUYER9pool-1-thread-10', countOrders=1, allSum=5, calories=100
+id=65, nameBuyer='BUYER65pool-1-thread-66', countOrders=1, allSum=2, calories=50
+id=5, nameBuyer='BUYER5pool-1-thread-6', countOrders=4, allSum=11, calories=50
